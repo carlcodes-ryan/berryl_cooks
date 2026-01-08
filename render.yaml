@@ -1,5 +1,6 @@
+services:
   - type: web
-    name: berryl-recipes
+    name: berryl_cooks
     env: static
     branch: main
     buildCommand: ""
