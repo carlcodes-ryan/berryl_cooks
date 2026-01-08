@@ -5,7 +5,5 @@ services:
     branch: main
     buildCommand: ""
     staticPublishPath: .
-    routes:
-      - type: rewrite
-        source: /
-        destination: /berryl_recipes.html
+    
+
