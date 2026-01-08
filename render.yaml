@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: berryl-recipes
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
