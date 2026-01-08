@@ -1,7 +1,7 @@
-services:
   - type: web
     name: berryl-recipes
     env: static
+    branch: main
     buildCommand: ""
     staticPublishPath: .
     routes:
